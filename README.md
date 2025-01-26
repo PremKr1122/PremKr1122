@@ -1,4 +1,4 @@
-## Hi, I'm Prem Kr, always curious and learning in the field of Data Science 📊📉  
+## Always curious and learning in the field of Data Science 📊📉  
 
 🔗 Bridging Ideas with Data 🔗  
 - pursuing a B.Tech in Computer Science at Barak Valley Engineering College, specializing in Data Science and Machine Learning.
