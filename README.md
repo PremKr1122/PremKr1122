@@ -20,7 +20,7 @@ I am currently pursuing a **B.Tech in Computer Science** at Barak Valley Enginee
 ---  
 
 ## 📌 Pinned Projects:  
-- [🌟 Data Science 2024](https://github.com/PremKr1122/Forest-fire-prediction)  
+- [🌟 Forest Fire Prediction 2024](https://github.com/PremKr1122/Forest-fire-prediction)  
   _Repository for practical data science projects that utilize Python, Pandas, NumPy, Seaborn, Sklean and Ml to build impactful solutions._  
 
 ---  
