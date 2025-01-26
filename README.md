@@ -10,7 +10,7 @@ I’m pursuing a B.Tech in Computer Science at Barak Valley Engineering College,
 ### **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 
-### **Data Science Libraries:**
+### **Libraries:**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
 ### **Tools:**
@@ -26,8 +26,8 @@ I’m pursuing a B.Tech in Computer Science at Barak Valley Engineering College,
 ---  
 
 ## 🌍 Let’s Connect:  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kr-sah/)  
-- [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:pksjuly721@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kr-sah/) [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:pksjuly721@gmail.com)
+
 
 ---  
 
