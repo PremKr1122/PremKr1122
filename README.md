@@ -1,4 +1,4 @@
-# Hey, [Your Name] here 😊
+# Hey, Prem Kr here 😊
 
 I am currently pursuing B.Tech at Barak Valley Engineering College, with a deep focus on Data Science and Machine Learning.
 
