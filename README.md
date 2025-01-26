@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, [Your Name] here 😊
 
-<!--
-**PremKr1122/PremKr1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing B.Tech at Barak Valley Engineering College, with a deep focus on Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+<!-- Add more icons using markdown shields -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let’s get connected:
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+- [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+## 📌 Pinned Projects:
+- [Data Science 2024](https://github.com/your-username/Data-Science-2024)  
+  Repository for practical data science projects.
+- [Data Science 2023](https://github.com/your-username/Data-Science-2023)  
+  Repository for past data science projects.
