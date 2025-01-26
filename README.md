@@ -22,7 +22,7 @@
 
 ## 📌 Pinned Projects:  
 - [🌟 Forest Fire Prediction 2024](https://github.com/PremKr1122/Forest-fire-prediction)  
-  _Repository for practical data science projects that utilize Python, Pandas, NumPy, Seaborn, Sklean and Ml to build impactful solutions._  
+  _Data Cleaning, Feature Engineering, EDA, Dataset Sppliting and Model Training _  
 
 ---  
 
