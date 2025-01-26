@@ -20,17 +20,14 @@ I am currently pursuing a **B.Tech in Computer Science** at Barak Valley Enginee
 ---  
 
 ## 📌 Pinned Projects:  
-- [🌟 Data Science 2024](https://github.com/your-username/Data-Science-2024)  
-  _Repository for practical data science projects that utilize Python, TensorFlow, and SQL to build impactful solutions._  
-
-- [🌟 Data Science 2023](https://github.com/your-username/Data-Science-2023)  
-  _Archive of my earlier explorations into data science concepts and applications._  
+- [🌟 Data Science 2024](https://github.com/PremKr1122/Forest-fire-prediction)  
+  _Repository for practical data science projects that utilize Python, Pandas, NumPy, Seaborn, Sklean and Ml to build impactful solutions._  
 
 ---  
 
 ## 🌍 Let’s Connect:  
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)  
-- [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kr-sah/)  
+- [![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white)](mailto:pksjuly721@gmail.com)  
 
 ---  
 
