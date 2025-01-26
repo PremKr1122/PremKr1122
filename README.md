@@ -22,7 +22,7 @@
 
 ## 📌 Pinned Projects:  
 - [🌟 Forest Fire Prediction 2024](https://github.com/PremKr1122/Forest-fire-prediction)  
-  _Data Cleaning, Feature Engineering, EDA, Dataset Sppliting and Model Training _  
+  _Data Cleaning, Feature Engineering, EDA, Dataset Spliting and Model Training _  
 
 ---  
 
