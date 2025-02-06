@@ -15,14 +15,14 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 
 ### **Data Science/Machine Learning & Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=ai&logoColor=white&style=flat)  
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1f77b4?logo=bar-chart&logoColor=white&style=flat)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
- 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat) 
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=ai&logoColor=white&style=flat) 
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-1f77b4?logo=bar-chart&logoColor=white&style=flat) 
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) 
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
 
 ---  
 
