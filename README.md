@@ -23,13 +23,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-
----  
-
-## 📌 Pinned Projects:  
-- [🌟 Forest Fire Prediction 2024](https://github.com/PremKr1122/Forest-fire-prediction)  
-  _Data Cleaning, Feature Engineering, EDA, Dataset Spliting and Model Training _  
-
 ---  
 
 ## 🌍 Let’s Connect:  
