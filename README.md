@@ -1,9 +1,9 @@
 
 ### Hi, I'm Prem
-#### Always curious and learning in the field of Data Science 📊📉
+#### Always curious and learning in the field of Data Analytics 📊📉
 
 - B.Tech in Computer Science and Engineering at Barak Valley Engineering College 🔗
-- Specializing in Data Science and Machine Learning
+- Specializing in Data Analytics, Data Science and Machine Learning
 - Passionate about extracting insights from data and building predictive solutions
 
 ---
