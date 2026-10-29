@@ -1,4 +1,4 @@
-# Hi there! It's Prem 👋
+### Hi there! It's Prem 👋
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=PremKr1122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm **Prem Kr Sah**, a recent Computer Science and Engineering graduate (B.Tech, Barak Valley Engineering College, Assam) and an entry-level **Data Analyst**. I enjoy turning messy data into clear answers: cleaning and validating it, analyzing it with SQL and Python, and presenting the results in Power BI dashboards.
+I'm **Prem Kr Sah**, recently graduated with my B.Tech in Computer Science and Engineering from Barak Valley Engineering College, Assam. I enjoy turning messy data into clear answers: cleaning and validating it, analyzing it with SQL and Python, and presenting the results in Power BI dashboards.
 
 My recent work includes an end-to-end NLP pipeline over 228,000+ hotel reviews, a document-extraction pipeline at the National Informatics Centre (NIC), and machine learning models for customer segmentation, price prediction, and image classification. I'm looking for an entry-level Data Analyst role where I can keep learning and put these skills to work.
 
