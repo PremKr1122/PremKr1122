@@ -1,114 +1,61 @@
-\documentclass[9pt,letterpaper]{article}
+# Hi there! It's Prem 👋
 
-% The reference PDF embeds CharterBT Roman/Bold/Italic.
-\usepackage[left=0.43in,right=0.43in,top=0.25in,bottom=0.28in]{geometry}
-\usepackage[T1]{fontenc}
-\usepackage{charter}
-\usepackage{titlesec}
-\usepackage{enumitem}
-\usepackage{tabularx}
-\usepackage{array}
-\usepackage[hidelinks]{hyperref}
-\usepackage{microtype}
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=PremKr1122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-\pagestyle{empty}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{0pt}
-\setlength{\tabcolsep}{0pt}
-\setlength{\emergencystretch}{1em}
+## 🚀 About Me
 
-% Section heading and rule spacing.
-\titleformat{\section}
-  {\bfseries\normalsize}
-  {}{0pt}{}
-  [\vspace{-4pt}\rule{\textwidth}{0.35pt}]
-\titlespacing*{\section}{0pt}{5.5pt}{4pt}
+I'm **Prem Kr Sah**, a recent Computer Science and Engineering graduate (B.Tech, Barak Valley Engineering College, Assam) and an entry-level **Data Analyst**. I enjoy turning messy data into clear answers: cleaning and validating it, analyzing it with SQL and Python, and presenting the results in Power BI dashboards.
 
-% Uniform bullet spacing throughout the document.
-\setlist[itemize]{
-  leftmargin=1.18em,
-  label=\textbullet,
-  itemsep=0.65pt,
-  topsep=0pt,
-  parsep=0pt,
-  partopsep=0pt,
-  itemindent=0pt
-}
+My recent work includes an end-to-end NLP pipeline over 228,000+ hotel reviews, a document-extraction pipeline at the National Informatics Centre (NIC), and machine learning models for customer segmentation, price prediction, and image classification. I'm looking for an entry-level Data Analyst role where I can keep learning and put these skills to work.
 
-\newcommand{\resumeTwoCol}[2]{%
-  \begin{tabularx}{\textwidth}{@{}>{\raggedright\arraybackslash}X>{\raggedleft\arraybackslash}p{0.27\textwidth}@{}}
-    #1 & #2
-  \end{tabularx}%
-}
-\newcommand{\project}[3]{%
-  \resumeTwoCol{\textbf{#1}}{#2}\\[-1pt]
-  {\itshape Tech Stack: #3}\par\vspace{-1pt}
-}
+## 🔭 My Interests
 
-\begin{document}
-\fontsize{10}{12.8}\selectfont
+- **Data Analysis & Dashboards:** Turning raw data into clear insights with SQL and Power BI.
+- **NLP & Text Analytics:** Extracting sentiment and themes from customer reviews.
+- **Machine Learning:** Regression and clustering models for prediction and segmentation.
+- **Computer Vision:** Transfer learning for image classification and extraction from documents.
+- **Data Quality:** Cleaning, validating, and reconciling data so the numbers can be trusted.
 
-% Header
-\begin{center}
-  {\fontsize{18}{14.7}\selectfont\bfseries Prem Kr Sah}\\[-1pt]
-  +91-6001054097 \textbar\ \href{mailto:pksjuly721@gmail.com}{pksjuly721@gmail.com}\\[-1pt]
-  \href{https://www.linkedin.com/in/prem-kr-sah/}{https://www.linkedin.com/in/prem-kr-sah/} \textbar\ \href{https://github.com/PremKr1122}{https://github.com/PremKr1122}
-\end{center}
-\vspace{-3pt}
+## 🛠️ Skills
 
-\section*{Summary}
-Computer Science and Engineering graduate and entry-level Data Analyst skilled in SQL, Python (Pandas, NumPy), Excel and Power BI. Experienced in data cleaning, validation, statistical and trend analysis on large datasets (228,000+ records), and in communicating insights through dashboards.
+- **Programming & Querying:** Python, SQL (MySQL)
+- **Data Analysis:** Pandas, NumPy, EDA, Statistical Analysis, Data Cleaning & Validation
+- **Visualization / Business Intelligence:** Power BI (DAX, Power Query), MS Excel
+- **Machine Learning / Deep Learning / NLP:** Scikit-Learn, PyTorch (CNNs, ResNet, Transfer Learning), Optuna, NLTK
+- **Tools & Deployment:** FastAPI, Streamlit, REST APIs, Pydantic, Git, GitHub, Docker, Jupyter Notebook
 
-\section*{Skills}
-\textbf{Programming \& Querying:} SQL (MySQL), Python, Pandas, NumPy, Data Modeling, Data Extraction, Data Validation\\[-1pt]
-\textbf{Analysis \& Statistics:} EDA, Statistical Analysis, Regression, Trend Analysis, Outlier Analysis, Data Cleaning\\[-1pt]
-\textbf{Visualization \& Reporting:} Power BI, DAX, Power Query, MS Excel, Dashboarding, Data Visualization\\[-1pt]
-\textbf{Machine Learning \& NLP:} Scikit-Learn, Feature Engineering, Risk Prediction, NLTK, Sentiment Analysis\\[-1pt]
-\textbf{Tools \& Frameworks:} FastAPI, REST APIs, Pydantic, Streamlit, PyTorch, Jupyter Notebook, Git, GitHub, Docker
+## 📊 Featured Projects
 
-\section*{Experience}
-\resumeTwoCol{\textbf{Software Development Intern, Computer Vision \& AI} \hfill \hspace{7pt}\textbf{National Informatics Centre (NIC)}}{\textbf{July 2025 -- Aug 2025}}\\[-6pt]
-\begin{itemize}
-  \item Built a Python/FastAPI pipeline (InsightFace, PyMuPDF, regex) to extract and match voter IDs from semi-structured PDF records: 92.8\% ID extraction accuracy on 78 real records, 88.5\% face detection rate.
-  \item Investigated extraction failures below these thresholds and identified two root causes -- missing voter photographs in source records and left-to-right, row-by-row extraction logic that broke on non-standard layouts -- to guide targeted fixes.
-\end{itemize}
-\vspace{3pt}
-\resumeTwoCol{\textbf{Machine Learning Intern} \hfill \textbf{Feynn Labs}}{\textbf{Dec 2024 -- Feb 2025}}\\[-6pt]
-\begin{itemize}
-  \item K-Means market segmentation on 1,453 customer survey records identified 4 distinct customer segments.
-  \item Conducted EDA (distribution and outlier analysis, box plots) and data cleaning (feature removal, one-hot encoding).
-  \item Trained a mobile price prediction model on 988 records; Ridge regression achieved R\textsuperscript{2} = 0.48 on a 198-sample test set versus 0.36 for baseline Linear Regression.
-\end{itemize}
+- **[Hotel Review Analytics Pipeline](https://github.com/PremKr1122/hotel-review-analytics-pipeline)** <br>
+  Cleans and loads 254K+ hotel reviews, scores sentiment and aspects (room, staff, noise, and more) on the 228K+ with text using NLTK/VADER, and reports the findings in a two-page Power BI dashboard. <br>
+  `Python` · `NLTK/VADER` · `MySQL` · `Power BI`
 
-\section*{Projects}
-\project{Hotel Review Analytics Pipeline}{\href{https://github.com/PremKr1122/hotel-review-analytics-pipeline}{GitHub}}{Python, NLTK/VADER, MySQL, Power BI}
-\begin{itemize}
-  \item Analyzed 228,000+ hotel reviews with text (254,000+ loaded) across 10 cities for review- and aspect-level sentiment.
-  \item Designed a normalized MySQL schema (hotels, reviews, review\_aspects); wrote SQL for KPIs, trends, and complaints.
-  \item Validated pipeline integrity by reconciling review counts across ingestion, cleaning, and MySQL load stages, and resolved two data-loss bugs (encoding artifacts, malformed CSV field parsing) surfaced through automated logging and count audits.
-  \item Delivered a two-page Power BI dashboard (DAX measures, city and date slicers); found 88.8\% of reviews positive and noise the weakest aspect (avg sentiment 0.23 vs 0.49 for cleanliness).
-\end{itemize}
-\vspace{3pt}
-\project{Forest Fire Risk Analysis and Prediction}{\href{https://github.com/PremKr1122/Forest-fire-prediction}{GitHub}}{Python, Pandas, Scikit-Learn, FastAPI}
-\begin{itemize}
-  \item Explored 243 records via EDA, correlation-based feature selection, and scaling to identify key fire risk drivers.
-  \item Compared Linear, Lasso, Ridge, and ElasticNet regression using 5-fold cross-validation; the final Ridge model achieved R\textsuperscript{2} of 0.9843 and MAE of 0.5642.
-\end{itemize}
-\vspace{3pt}
-\project{Car Damage Prediction using Deep Learning}{\href{https://github.com/PremKr1122/Car_Damage_Prediction}{GitHub}}{PyTorch, ResNet50, Optuna, FastAPI}
-\begin{itemize}
-  \item Developed a ResNet50 transfer-learning classifier on 2,296 images across 6 damage classes; Optuna tuning (20 trials) improved validation accuracy from 82.58\% to 82.75\%, outperforming EfficientNet-B0.
-\end{itemize}
+- **[Forest Fire Risk Analysis and Prediction](https://github.com/PremKr1122/Forest-fire-prediction)** <br>
+  Compares Linear, Lasso, Ridge, and ElasticNet regression on 243 records; the final Ridge model reaches R² of 0.9843 and MAE of 0.5642. <br>
+  `Python` · `Pandas` · `Scikit-Learn` · `FastAPI`
 
-\section*{Certifications}
-\resumeTwoCol{\textbf{Data Visualization}, Tata}{Jul 2026}\\[-2pt]
-\resumeTwoCol{\textbf{Data Science Job Simulation}, BCG}{Jan 2025}\\[-2pt]
-\resumeTwoCol{\textbf{Machine Learning \& MLOps Bootcamp}, Udemy}{Oct 2024}
+- **[Car Damage Prediction using Deep Learning](https://github.com/PremKr1122/Car_Damage_Prediction)** <br>
+  ResNet50 transfer-learning classifier on 2,296 images across 6 damage classes, reaching 82.75% validation accuracy after Optuna tuning. <br>
+  `PyTorch` · `ResNet50` · `Optuna` · `FastAPI`
 
-\section*{Education}
-\resumeTwoCol{\textbf{Barak Valley Engineering College (BVEC), Assam}, B.Tech in Computer Science and Engineering}{\textbf{2022 -- 2026}}\\[-6pt]
-\begin{itemize}
-  \item \textbf{GPA: 7.63/10}
-\end{itemize}
+## 💼 Experience
 
-\end{document}
+- **Software Development Intern, National Informatics Centre (NIC)** · Jul 2025 – Aug 2025 <br>
+  Built a Python/FastAPI pipeline to extract and match voter IDs from semi-structured PDF records (92.8% ID extraction accuracy on 78 real records) and traced extraction failures to their root causes.
+
+- **Machine Learning Intern, Feynn Labs** · Dec 2024 – Feb 2025 <br>
+  Segmented 1,453 customer survey records into 4 segments with K-Means and built a mobile price prediction model (Ridge regression, R² = 0.48).
+
+## 🎓 Education & Certifications
+
+- **B.Tech in Computer Science and Engineering**, Barak Valley Engineering College (BVEC), Assam · 2022 – 2026 · GPA 7.63/10
+- **Certifications:** Data Visualization (Tata, 2026) · Data Science Job Simulation (BCG, 2025) · Machine Learning & MLOps Bootcamp (Udemy, 2024)
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prem--kr--sah-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kr-sah/)
+[![Email](https://img.shields.io/badge/Email-pksjuly721%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:pksjuly721@gmail.com)
+
+💖 By [Prem Kr Sah](https://github.com/PremKr1122)
