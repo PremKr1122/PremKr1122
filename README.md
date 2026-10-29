@@ -1,9 +1,5 @@
 ### Hi there! It's Prem 👋
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=PremKr1122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ## 🚀 About Me
 
 I'm **Prem Kr Sah**, recently graduated with my B.Tech in Computer Science and Engineering from Barak Valley Engineering College, Assam. I enjoy turning messy data into clear answers: cleaning and validating it, analyzing it with SQL and Python, and presenting the results in Power BI dashboards.
